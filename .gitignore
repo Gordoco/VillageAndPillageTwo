@@ -1,0 +1,9 @@
+
+vapt/.classpath
+vapt/.gradle/
+vapt/.mcreator/
+vapt/.settings/
+vapt/build/
+vapt/gradle/wrapper/gradle-wrapper.properties
+vapt/gradlew
+vapt/vapt.mcreator
