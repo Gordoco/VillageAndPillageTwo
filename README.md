@@ -1,2 +1,0 @@
-# VillageAndPillageTwo
-Minecraft Mod
